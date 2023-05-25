@@ -2,6 +2,8 @@
 
 This game is written in Java and uses the [Processing SketchBook software](https://processing.org/) to build and play the game. 
 
+This game is based on the APCS curriculum from Dr. Long Nguyen's APCS course at the Boston Latin School. You can access the [series of short videos here](https://longbaonguyen.github.io/courses/platformer/platformer.html).    
+
 ## How to run this game on your computer
 
 * Install [Processing](https://processing.org/download)
